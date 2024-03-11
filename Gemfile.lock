@@ -273,6 +273,7 @@ DEPENDENCIES
   rexml
   rspec-rails
   sass-rails (>= 6)
+  selenium-webdriver
   sidekiq
   spring
   spring-commands-rspec
